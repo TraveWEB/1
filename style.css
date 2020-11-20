@@ -458,7 +458,7 @@ SECTION_2
 
 
 .section_3 {
-  background-image: url(/img/s3.png);
+  background-image: url(./img/s3.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
